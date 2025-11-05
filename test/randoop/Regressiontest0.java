@@ -1,0 +1,16 @@
+Regression test output:
+Regression test count: 3193
+Writing regression JUnit tests...
+Created file /Users/aryanbansal/Downloads/StackProject/tests/RegressionTest0.java
+Created file /Users/aryanbansal/Downloads/StackProject/tests/RegressionTest1.java
+Created file /Users/aryanbansal/Downloads/StackProject/tests/RegressionTest2.java
+Created file /Users/aryanbansal/Downloads/StackProject/tests/RegressionTest3.java
+Created file /Users/aryanbansal/Downloads/StackProject/tests/RegressionTest4.java
+Created file /Users/aryanbansal/Downloads/StackProject/tests/RegressionTest5.java
+Created file /Users/aryanbansal/Downloads/StackProject/tests/RegressionTest6.java
+Created file /Users/aryanbansal/Downloads/StackProject/tests/RegressionTest.java
+Wrote regression JUnit tests.
+About to look for flaky methods.
+Done looking for flaky methods.
+
+Invalid tests generated: 0
